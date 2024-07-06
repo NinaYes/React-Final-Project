@@ -23,7 +23,7 @@ function Menus() {
   return (
     <div className="containerMain">
         <div className="containerTwo">
-            <p>At Two Spoons, we have tried to create our Sample Menus hoping that they will fulfil your needs and exceed your expectations.</p>
+            <p>At Twin Forks, we have tried to create our Sample Menus hoping that they will fulfil your needs and exceed your expectations.</p>
             <p>Our menus consist of four courses with a selection of welcomes to begin, delivered with a relaxed and fun approach. Every course served, is presented, along with its history, by the Chef personally.</p>
         </div>
         <div className="containerTwo">
