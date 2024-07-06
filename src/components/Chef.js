@@ -1,5 +1,5 @@
-import image from './ChefTwo.avif';
-import dish from './Dish.avif';
+import image from '../Assets/ChefTwo.avif';
+import dish from '../Assets/Dish.avif';
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 

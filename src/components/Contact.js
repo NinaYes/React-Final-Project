@@ -1,6 +1,6 @@
-import './App.css';
-import ContactForm from './ContactForm';
-import  contactImage  from './ContactPhoto.avif' 
+import '../App.css';
+import ContactForm from '../components/ContactForm';
+import  contactImage  from '../Assets/ContactPhoto.avif' 
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 

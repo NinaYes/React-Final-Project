@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from 'react';
-import './App.css';
-import { data } from './MenuSamples';
+import '../App.css';
+import { data } from '../components/MenuSamples';
 import { Link } from 'react-router-dom';
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";

@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import logo from './logo.png';
+import logo from './Assets/logo.png';
 import Footer from "./components/Footer.js";
 
 
@@ -11,10 +11,10 @@ import {
   Link
 } from "react-router-dom";
 
-import Gallery from './Gallery';
-import Menus from './Menus';
-import Contact from './Contact';
-import Chef from './Chef.js';
+import Gallery from './components/Gallery.js';
+import Menus from './components/Menus.js';
+import Contact from './components/Contact.js';
+import Chef from './components/Chef.js';
 
 function App() {
   return (
